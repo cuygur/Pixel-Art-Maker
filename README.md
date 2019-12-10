@@ -1,5 +1,7 @@
 # Pixel Art Maker Project
 
+This is my JavaScript Project for Udacity
+
 ## Table of Contents
 
 * [Instructions](#instructions)
